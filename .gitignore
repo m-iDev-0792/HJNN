@@ -1,0 +1,5 @@
+#ignore following files&folders
+cmake-build-debug
+cmake-build-release
+.vs
+.idea
